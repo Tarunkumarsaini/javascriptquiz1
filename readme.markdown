@@ -35,4 +35,4 @@ Array methods are functions built-in to javascript that we can apply to our arra
 * indexOf()
 
 # ans 10 
-we can traverse the array by using different loops  , or by directly the index of an element.
+we can traverse the array by using different loops and  by directly from the index of an element.
